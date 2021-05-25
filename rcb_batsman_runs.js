@@ -9,7 +9,7 @@ fetch("./rcb_batsman_runs.json")
               text: 'Total runs scored by RCB batsman in IPL'
             },
             subtitle: {
-              text: 'Source:<a href="http://en.wikipedia.org/wiki/List_of_cities_proper_by_population">Wikipedia</a>'
+              text: 'Source:<a href="https://en.wikipedia.org/wiki/Indian_Premier_League">Wikipedia</a>'
             },
             xAxis: {
               type: 'category',
