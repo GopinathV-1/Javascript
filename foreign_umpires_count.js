@@ -9,7 +9,7 @@ fetch("./foreign_umpires_count.json")
               text: 'Foreign umpires count in IPL'
             },
             subtitle: {
-              text: 'Source:<a href="http://en.wikipedia.org/wiki/List_of_cities_proper_by_population">Wikipedia</a>'
+              text: 'Source:<a href="https://en.wikipedia.org/wiki/Indian_Premier_League">Wikipedia</a>'
             },
             xAxis: {
               type: 'category',
